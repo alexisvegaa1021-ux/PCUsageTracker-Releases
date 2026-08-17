@@ -2,13 +2,13 @@
     "schemaVersion":  1,
     "tracker":  {
                     "version":  "2.0.2",
-                    "installerUrl":  "https://github.com/alexisvegaa1021-ux/PCUsageTracker-Releases/releases/download/v2.0.1/PCUsageTracker-Setup-x64.exe",
+                    "installerUrl":  "https://github.com/alexisvegaa1021-ux/PCUsageTracker-Releases/releases/download/v2.0.2/PCUsageTracker-Setup-x64.exe",
                     "sha256":  "5e38e274cba715aef6be7471c71789075a3c30d175e85c49fbc53bdff77b2350",
                     "releaseNotes":  "PC Usage Tracker 2.0.2"
                 },
     "admin":  {
                   "version":  "2.0.2",
-                  "installerUrl":  "https://github.com/alexisvegaa1021-ux/PCUsageTracker-Releases/releases/download/admin-v2.0.1/PCUsageTracker-Admin-Setup-x64.exe",
+                  "installerUrl":  "https://github.com/alexisvegaa1021-ux/PCUsageTracker-Releases/releases/download/admin-v2.0.2/PCUsageTracker-Admin-Setup-x64.exe",
                   "sha256":  "e60d81f3613576a9f24e74bd859f0fef8ae9a3ca2f4b384dbcb0c4954ed6986c",
                   "releaseNotes":  "PC Usage Admin 2.0.2"
               }
